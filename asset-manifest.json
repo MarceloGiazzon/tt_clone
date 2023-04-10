@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tt_clone/static/css/main.2d66bf18.css",
+    "main.js": "/tt_clone/static/js/main.af48ee73.js",
+    "index.html": "/tt_clone/index.html",
+    "main.2d66bf18.css.map": "/tt_clone/static/css/main.2d66bf18.css.map",
+    "main.af48ee73.js.map": "/tt_clone/static/js/main.af48ee73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d66bf18.css",
+    "static/js/main.af48ee73.js"
+  ]
+}
